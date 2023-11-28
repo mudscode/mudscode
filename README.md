@@ -21,7 +21,7 @@ Always eager to learn! My goal is to become a skilled backend developer. I've le
 ## 🚀 Projects
 
 Check out some of my projects:
-
+- [vChat](https://github.com/mudscode/vChat): A messaging app using socket.io
 - [E-commerce API](https://github.com/mudscode/E-commerce-APIs): For smooth online shopping
 - [Blog API](https://github.com/mudscode/theBlog): Bringing creativity to the blogosphere
 - [Social App API](https://github.com/mudscode/social): Connecting people in the digital world
