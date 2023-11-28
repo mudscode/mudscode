@@ -12,15 +12,11 @@ Welcome to my coding space! I'm Mudscode, a learner diving into backend developm
 - MongoDB & MySQL for databases
 - HTML & CSS for front-end design
 
-💡 I've built online shopping systems with my e-commerce API and connected people in digital spaces with my blog and social projects. I've also tackled coding challenges in competitions and hackathons.
-
 🌐 In the past, I've explored full-stack development with PHP and Laravel, building dynamic web applications. PHP and Laravel are the stepping stones in my coding journey.
 
 ## 🌱 Learning Goals
 
 Always eager to learn! My goal is to become a skilled backend developer. I've learned a lot from free resources online.
-
-Next, I plan to improve my backend skills and understand more about computer science. Stay tuned for more learning adventures!
 
 ## 🚀 Projects
 
@@ -31,11 +27,6 @@ Check out some of my projects:
 - [Social App API](https://github.com/mudscode/social): Connecting people in the digital world
 
 🌟 Each project holds a special place in my coding journey, showcasing my commitment to practical solutions and meaningful connections.
-
-Stay tuned for more exciting projects!
-
-## 🌟 Open Source & Contributions
-
 Excited to start contributing to open source projects! Besides coding skills, I value teamwork and communication. I'm looking forward to contributing to projects that make a difference.
 
 ## 📬 Let's Connect!
