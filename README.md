@@ -7,10 +7,7 @@ Welcome to my coding space! I'm Mudscode, a learner diving into backend developm
 ## 💼 Professional Background
 
 🚀 Currently learning backend development using:
-- JavaScript (Node.js)
-- Express.js
-- MongoDB & MySQL for databases
-- HTML & CSS for front-end design
+- JavaScript (Node.js), Express.js, MongoDB & MySQL for databases, HTML & CSS for front-end design
 
 ## 📬 Let's Connect!
 
