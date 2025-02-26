@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Mudassir Ahmad 🚀
+Hello! 👋 
 
-Welcome to my coding space!
 
 📧 Email: mudasirow@gmail.com
